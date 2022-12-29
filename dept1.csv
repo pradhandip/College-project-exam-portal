@@ -1,0 +1,11 @@
+dept_id,dept_name,list_of_batches
+CSE,Computer Sience_and Engineering,CSE20:CSE21:CSE22
+CSEAI,Computer Sience & Engineering & Artificial Intelligence,CSEAI21
+CSEAIML,Computer Sience & Engineering & Artificial Intelligence & Machine Learning,CSEIOTCSBS18:CSEIOTCSBS19:CSEIOTCSBS20:CSEIOTCSBS21:CSEIOTCSBS22
+IT,Information Technology,IT21:IT22
+ECE,Electronics & Communication Engineering,ECE20:ECE21:ECE22
+EE,Electrical Engineering,EE19:EE20
+EEE,Electrical & Electronics Engineering,EEE21:EEE22
+ME,Mechanical Engineering,ME18:ME19:ME20
+CSE(IoT),Internet of Things,CSE(IoT)18:CSE(IoT)19:CSE(IoT)20:CSE(IoT)21
+CSBS,Computer Science & Business System,CSBS19:CSBS20:CSBS21

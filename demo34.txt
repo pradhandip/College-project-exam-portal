@@ -1,0 +1,39 @@
+*******************************************************************************
+*******************************************************************************
+                                  REPORT CARD                                  
+
+...............................................................................
+...............................................................................
+Name : Arijeet Banerjee
+
+Batch : ECE2022-26
+
+Roll Number : 7
+-------------------------------------------------------------------------------
+
+
+Marks in 'Chemistry(BSC102-Th)' : 96
+Marks in 'Mathematics-I(BSC103)' : 98
+Marks in 'Biology(BSC109)' : 86
+Marks in 'Electrical(ESC101-Th)' : 79
+Marks in 'Mechanics(ESC202A)' : 88
+Marks in 'Programming for Problem Solving Using Python(IVC101)' : 93
+Marks in 'Design Thinking & Innovation(Basic)(IVC102)' : 72
+Marks in 'Economics,Finance & Entrepreneurship Skills(Foundation)(IVC103)' : 68
+Marks in 'Essential Studies for Professionals I(HSMC102)' : 83
+Marks in 'Skill Development for Professionals I(HSMC182)' : 81
+
+
+Total Percentage = 84.4
+None
+
+-------------------------------------------------------------------------------
+                                  VIEW GRADE                                  
+
+-------------------------------------------------------------------------------
+congratulations!You have passed the exam with grade - 'B'.
+
+
+-------------------------------------------------------------------------------
+*******************************************************************************
+*******************************************************************************
